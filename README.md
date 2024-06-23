@@ -1,6 +1,6 @@
-### **Deposit Campaign Analysis and Optimization** 📈
+# **Deposit Campaign Analysis and Optimization** 📈
 
-**Project Overview**
+### **Project Overview**
 
 This project aims to enhance the success rate of customer deposit campaigns by 25% in the next quarter through comprehensive data analysis of previous campaigns. By leveraging these insights, we will develop targeted marketing strategies to boost customer deposits.
 
